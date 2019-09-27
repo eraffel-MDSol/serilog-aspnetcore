@@ -18,6 +18,7 @@ using Microsoft.Extensions.Logging;
 using Serilog.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
 using Serilog.Extensions.Hosting;
+using Serilog.Core;
 
 namespace Serilog
 {
